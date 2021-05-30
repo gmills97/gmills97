@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gmills97
+- 👋 Hi, I’m Grace!
 - 👀 I’m interested in switching my career to programming within the next year.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Korean, and Portuguese.
 - 💞️ I’m looking to collaborate on ...
