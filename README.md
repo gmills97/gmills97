@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grace M!
 - 👀 I’m interested in switching my career to programming within the next year.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Korean, and Portuguese.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
