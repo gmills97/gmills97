@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Grace M!
-- 👀 I’m interested in switching my career to web development within the next year (by November 2022).
+- 👀 I’m interested in switching my career to web development.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can best reach me on social media (Twitter: gracemills_dev) or through email!
