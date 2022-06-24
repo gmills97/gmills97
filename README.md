@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grace M!
 - 👀 I’m interested in switching my career to web development.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Python, and Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can best reach me on social media (Twitter: gracemwebdev) or through email!
 
