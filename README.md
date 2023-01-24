@@ -3,9 +3,8 @@
 <div align="center">
 <h3> Grace Mills is a... </h3>
 👩🏾‍💻 Software Developer (based in North/Latin America) <br>
-🗣️ language lover (learning Korean, Spanish, and Portuguese) <br>
+🗣️ language lover (learning Spanish, Romanian, Gujarati, and Korean) <br>
 💞 polymath (interested in language, music, and mental health) <br>
-🏫 life-long learner (dedicated to personal development) <br>
 </div>
 
 <div align="center">
