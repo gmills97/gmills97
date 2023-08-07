@@ -3,18 +3,17 @@
 # Hi, I'm Grace Mills! 🧋
 A Software Developer from the United States.
   - 📍 I am based in North/Latin America
-  - 🔤 I love learning languages (currently learning Spanish, Korean, and Portuguese)
+  - 🔤 I love learning languages (currently learning Korean and Portuguese)
 
 #
 
 ### Work & Contact:
 - 🐣 I am currently working on ***the Code by Grace portfolio website***.
-- 🌱 I am currently learning ***Java*** and ***React***.
+- 🌱 I am currently learning ***Python*** and ***React***.
 - 💾 All of my works are available on ... ***portfolio site coming soon***.
-- 📨 You can contact me through the following links (<a href="https://www.linkedin.com/in/codebygrace" target="_blank">LinkedIn</a>, <a href="mailto:gracemillswebdev@gmail.com" target="_blank">Email</a>) or by clicking on the icons below:
+- 📨 You can contact me through the following links (<a href="https://www.linkedin.com/in/codebygrace" target="_blank">LinkedIn</a>) or by clicking on the icons below:
 
 <a href="https://www.linkedin.com/in/codebygrace" target="_blank"><img src="https://user-images.githubusercontent.com/64663512/183503084-b303b468-f1e0-4256-a851-0218f7c0313c.svg" width="" alt="linkedin"></a> 
-<a href="mailto:gracemillswebdev@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/64663512/183503324-280e95fe-393e-4f9c-8573-95e359d4675f.svg" width="" alt="email"></a>
   
 #
   
