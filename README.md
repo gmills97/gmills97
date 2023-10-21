@@ -9,7 +9,7 @@ A Software Developer from the United States.
 
 ### Work & Contact:
 - 🐣 I am currently working on ***the Code by Grace portfolio website***.
-- 🌱 I am currently learning ***Python*** and ***React***.
+- 🌱 I am currently learning ***Object-Oriented Programming*** and ***React***.
 - 💾 All of my works are available on ... ***portfolio site coming soon***.
 - 📨 You can contact me through the following links (<a href="https://www.linkedin.com/in/codebygrace" target="_blank">LinkedIn</a>) or by clicking on the icons below:
 
