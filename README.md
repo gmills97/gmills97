@@ -1,19 +1,15 @@
-![cbg-github-banner](https://user-images.githubusercontent.com/64663512/227831161-fb9dbef9-95ab-48cc-ae76-187a111f9fb6.png)
-
 # Hi, I'm Grace Mills! 🧋
 A Software Developer from the United States.
-  - 📍 I am based in North/Latin America
-  - 🔤 I love learning languages (currently learning Korean and Portuguese)
+  - 🔤 I love learning languages (currently learning Portuguese)
 
 #
 
 ### Work & Contact:
-- 🐣 I am currently working on ***the Code by Grace portfolio website***.
-- 🌱 I am currently learning ***Object-Oriented Programming*** and ***React***.
-- 💾 All of my works are available on ... ***portfolio site coming soon***.
-- 📨 You can contact me through the following links (<a href="https://www.linkedin.com/in/codebygrace" target="_blank">LinkedIn</a>) or by clicking on the icons below:
+- 🐣 I am currently working on ***TBA***.
+- 🌱 I am currently learning ***Java***.
+- 📨 You can contact me through the following links (<a href="https://www.linkedin.com/in/grace-m-mills" target="_blank">LinkedIn</a>) or by clicking on the icons below:
 
-<a href="https://www.linkedin.com/in/codebygrace" target="_blank"><img src="https://user-images.githubusercontent.com/64663512/183503084-b303b468-f1e0-4256-a851-0218f7c0313c.svg" width="" alt="linkedin"></a> 
+<a href="https://www.linkedin.com/in/grace-m-mills" target="_blank"><img src="https://user-images.githubusercontent.com/64663512/183503084-b303b468-f1e0-4256-a851-0218f7c0313c.svg" width="" alt="linkedin"></a> 
   
 #
   
