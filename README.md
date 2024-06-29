@@ -1,8 +1,4 @@
 # Hi, I'm Grace Mills! 🧋
-A Software Developer from the United States.
-  - 🔤 I love learning languages (currently learning Portuguese)
-
-#
 
 ### Work & Contact:
 - 🐣 I am currently working on ***TBA***.
