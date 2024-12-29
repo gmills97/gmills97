@@ -1,8 +1,8 @@
 # Hi, I'm Grace Mills! 🧋
 
 ### Work & Contact:
-- 🐣 I am currently working on ***TBA***.
-- 🌱 I am currently learning ***Java***.
+- 🐣 I am currently working on ***...***.
+- 🌱 I am currently learning ***...***.
 - 📨 You can contact me through the following links (<a href="https://www.linkedin.com/in/grace-m-mills" target="_blank">LinkedIn</a>) or by clicking on the icons below:
 
 <a href="https://www.linkedin.com/in/grace-m-mills" target="_blank"><img src="https://user-images.githubusercontent.com/64663512/183503084-b303b468-f1e0-4256-a851-0218f7c0313c.svg" width="" alt="linkedin"></a> 
